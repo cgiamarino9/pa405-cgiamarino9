@@ -1,13 +1,22 @@
-# Exploring criminalization of homelessness in LA County
-I plan to explore 
-## Research question
-My research question is: where are EV charging stations located in LA county, and where should more be constructed to improve access? 
+# Project : Python and Metro
 
-## Data sources
-In this project, I am looking at [311 complaint data](https://la.myneighborhooddata.org/2024/02/311-service-requests/) from USC. I would also like to map poverty rates using [Census data](https://www.census.gov/topics/income-poverty/poverty/data/tables.html).
+## Research questions
+Following our Python bootcamp last week (was it boring? exhilerating? a bit of both?), let's put that programming knowledge into action, using and creating data that reflects a real urban situation.
 
-I am done with my project proposal. 
+We start by importing a new module `geopandas`. This is a pretty high level geospatial library, widely used by spatial data scientists all over the world. Don't worry about it too much for now, but know that it allows us to import a variety of spatial data formats, and plot them on a map.
 
-## What I expect to find
+* [geopandas documentation](https://geopandas.readthedocs.io/en/latest/gallery/index.html)
 
-I expect to find that lower income communities like Boyle Heights have less access to EV charging stations. I hope that my maps tell policymakers to build more charging stations in specific locations. 
+* ## Data sources
+Following our Python bootcamp last week (was it boring? exhilerating? a bit of both?), let's put that programming knowledge into action, using and creating data that reflects a real urban situation.
+
+We start by importing a new module `geopandas`. This is a pretty high level geospatial library, widely used by spatial data scientists all over the world. Don't worry about it too much for now, but know that it allows us to import a variety of spatial data formats, and plot them on a map.
+
+* [geopandas documentation](https://geopandas.readthedocs.io/en/latest/gallery/index.html)
+
+* ## What I hope to find
+Following our Python bootcamp last week (was it boring? exhilerating? a bit of both?), let's put that programming knowledge into action, using and creating data that reflects a real urban situation.
+
+We start by importing a new module `geopandas`. This is a pretty high level geospatial library, widely used by spatial data scientists all over the world. Don't worry about it too much for now, but know that it allows us to import a variety of spatial data formats, and plot them on a map.
+
+* [data source](https://geopandas.readthedocs.io/en/latest/gallery/index.html)
